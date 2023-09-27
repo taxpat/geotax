@@ -1,0 +1,52 @@
+﻿State,Abbrev,TaxType
+Alabama,AL,2
+Alaska,AK,0
+Arizona,AZ,1
+Arkansas,AR,3
+California,CA,3
+Colorado,CO,1
+Connecticut,CT,3
+Delaware,DE,3
+District of Columbia,DC,3
+Florida,FL,0
+Georgia,GA,2
+Hawaii,HI,3
+Idaho,ID,1
+Illinois,IL,1
+Indiana,IN,1
+Iowa,IA,2
+Kansas,KS,3
+Kentucky,KY,1
+Louisiana,LA,3
+Maine,ME,3
+Maryland,MD,3
+Massachusetts,MA,1
+Michigan,MI,1
+Minnesota,MN,3
+Mississippi,MS,1
+Missouri,MO,2
+Montana,MT,3
+Nebraska,NE,3
+Nevada,NV,0
+New Hampshire,NH,0
+New Jersey,NJ,3
+New Mexico,NM,3
+New York,NY,3
+North Carolina,NC,1
+North Dakota,ND,3
+Ohio,OH,3
+Oklahoma,OK,2
+Oregon,OR,3
+Pennsylvania,PA,1
+Rhode Island,RI,3
+South Carolina,SC,3
+South Dakota,SD,0
+Tennessee,TN,0
+Texas,TX,0
+Utah,UT,1
+Virginia,VA,3
+Vermont,VT,3
+Washington,WA,0
+West Virginia,WV,3
+Wisconsin,WI,3
+Wyoming,WY,0
